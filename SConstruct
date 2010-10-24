@@ -1,1 +1,1 @@
-Program("HelloWorld", "HelloWorld.cpp")
+Program("HelloWorld","HelloWorld.cpp")
